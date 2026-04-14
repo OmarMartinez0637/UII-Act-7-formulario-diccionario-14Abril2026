@@ -1,17 +1,4 @@
 # act7_formularios
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="929" height="1006" alt="image" src="https://github.com/user-attachments/assets/aeab22fe-f4e7-44c6-b56a-2703382b830b" />
+<img width="930" height="1010" alt="image" src="https://github.com/user-attachments/assets/179e1697-8ff6-4271-ad7b-7ac758f89110" />
+<img width="928" height="937" alt="image" src="https://github.com/user-attachments/assets/d9174593-a2f3-4066-b758-0f718312a362" />
